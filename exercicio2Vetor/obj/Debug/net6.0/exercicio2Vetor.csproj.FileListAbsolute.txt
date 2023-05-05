@@ -1,0 +1,15 @@
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\bin\Debug\net6.0\exercicio2Vetor.exe
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\bin\Debug\net6.0\exercicio2Vetor.deps.json
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\bin\Debug\net6.0\exercicio2Vetor.runtimeconfig.json
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\bin\Debug\net6.0\exercicio2Vetor.dll
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\bin\Debug\net6.0\exercicio2Vetor.pdb
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\exercicio2Vetor.csproj.AssemblyReference.cache
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\exercicio2Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\exercicio2Vetor.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\exercicio2Vetor.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\exercicio2Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\exercicio2Vetor.dll
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\refint\exercicio2Vetor.dll
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\exercicio2Vetor.pdb
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\exercicio2Vetor.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\exercicio2Vetor\exercicio2Vetor\obj\Debug\net6.0\ref\exercicio2Vetor.dll
